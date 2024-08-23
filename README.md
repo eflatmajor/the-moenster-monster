@@ -1,6 +1,8 @@
-# The Mönster Monster
+# The Mönster Monster 
 
-The Mönster Monster (mönster / moenster means pattern in Swedish)!
+The Mönster Monster (mönster / moenster means pattern in Swedish).
+
+So, this is "The Pattern Monster"!
 
 This is just some code that generates pretty patterns (generative art).
 
